@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Bagaimanakah Hukum Qurban Secara Online ?
 
-You can use the [editor on GitHub](https://github.com/blogadit/bagaimanakah-hukum-qurban-online/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Berqurban secara online akhir-akhir ini menjadi tren di kalangan masyarakat modern. Teknologi yang semakin canggih memungkinkan berbagai perkara jadi lebih mudah, tak terkecuali perkara ibadah seperti qurban, dimana orang-orang yang tinggalnya jauh dari lokasi penyembelihan, kesulitan mencari sendiri hewan qurban dan sebagainya tetap bisa berqurban secara online, yaitu mempercayakan lembaga sosial online untuk mencarikan dan menyembelihkan hewan qurban setelah mentransfer sejumlah uang sesuai kesepakatan. Meski demikian, masih banyak yang pro-kontra terhadap praktek qurban secara online ini.
+ 
+Memang dalam hadits, Rasulullah bersabda bahwa penyembelihan hewan qurban dilaksanakan di tanah lapang dan disaksikan oleh orang-orang yang memberikan hewan qurban, akan tetapi hal tersebut hanyalah sunnah saja. Artinya tidak mengapa jika tidak dikerjakan. Menurut para ulama sendiri, melaksanakan praktek qurban secara online ini sah-sah saja mengingat belum ada dalil yang jelas mengenai larangannya. Selain tidak dapat menyaksikan penyembelihannya secara langsung, orang-orang yang berqurban secara online otomatis juga tidak akan mendapat 1/3 bagian daging hewan qurban yang ia berikan yang sudah menjadi haknya. Namun itu artinya, mereka sama saja bersedekah bukan?
+ 
+Meski demikian, tak sedikit orang yang lebih memilih berqurban secara online mengingat ada alasan yang mendasari mereka tidak bisa melaksanakan qurban secara langsung seperti sulitnya mencari hewan qurban, tempat tinggal yang jauh dari lokasi penyembelihan bahkan ada yang beralasan tidak ingin riya’ sehingga mereka memilih meminta bantuan lembaga sosial yang juga menjadi panitia qurban untuk membelikan mereka hewan qurban dan menyembelihkannya.
+ 
+Jadi bagi yang melaksanakan qurban online, Anda tak perlu berkecil hati sebab tidak ada larangan mengenai hal tersebut dan kita bisa mengambil sisi positif dengan mempercayakan panitia qurban untuk menyalurkan daging qurban kepada orang-orang yang memang benar-benar sedang membutuhkan. Ingatlah bahwa tak hanya di Indonesia saja umat Muslim berharap bisa merasakan nikmatnya daging qurban, di belahan dunia lain pun demikian. Jadi, sangat disarankan untuk Anda, calon mudhohi untuk memilih lembaga sosial/panitia qurban yang terpercaya.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blogadit/bagaimanakah-hukum-qurban-online/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+sumber : [https://www.globalqurban.com/](https://www.globalqurban.com)
